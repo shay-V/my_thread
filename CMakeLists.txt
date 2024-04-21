@@ -12,4 +12,4 @@ endif()
 project ("my_thread")
 
 # 包含子项目。
-add_subdirectory ("my_thread")
+add_subdirectory ("src")
